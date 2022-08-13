@@ -7,23 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		36AD1C002864AD8800A1140E /* cw5App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36AD1BFF2864AD8800A1140E /* cw5App.swift */; };
-		36AD1C022864AD8800A1140E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36AD1C012864AD8800A1140E /* ContentView.swift */; };
-		36AD1C042864AD8A00A1140E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36AD1C032864AD8A00A1140E /* Assets.xcassets */; };
-		36AD1C072864AD8A00A1140E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36AD1C062864AD8A00A1140E /* Preview Assets.xcassets */; };
+		955F7D2828A79372009178E8 /* CW6App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955F7D2728A79372009178E8 /* CW6App.swift */; };
+		955F7D2A28A79372009178E8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955F7D2928A79372009178E8 /* ContentView.swift */; };
+		955F7D2C28A79373009178E8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 955F7D2B28A79373009178E8 /* Assets.xcassets */; };
+		955F7D2F28A79373009178E8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 955F7D2E28A79373009178E8 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		36AD1BFC2864AD8800A1140E /* cw5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cw5.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		36AD1BFF2864AD8800A1140E /* cw5App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cw5App.swift; sourceTree = "<group>"; };
-		36AD1C012864AD8800A1140E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		36AD1C032864AD8A00A1140E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		36AD1C062864AD8A00A1140E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		9586D01428A83D59008EFAF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		955F7D2428A79372009178E8 /* CW6.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CW6.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		955F7D2728A79372009178E8 /* CW6App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CW6App.swift; sourceTree = "<group>"; };
+		955F7D2928A79372009178E8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		955F7D2B28A79373009178E8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		955F7D2E28A79373009178E8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		36AD1BF92864AD8800A1140E /* Frameworks */ = {
+		955F7D2128A79372009178E8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -33,38 +32,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		36AD1BF32864AD8800A1140E = {
+		955F7D1B28A79372009178E8 = {
 			isa = PBXGroup;
 			children = (
-				36AD1BFE2864AD8800A1140E /* cw5 */,
-				36AD1BFD2864AD8800A1140E /* Products */,
+				955F7D2628A79372009178E8 /* CW6 */,
+				955F7D2528A79372009178E8 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		36AD1BFD2864AD8800A1140E /* Products */ = {
+		955F7D2528A79372009178E8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				36AD1BFC2864AD8800A1140E /* cw5.app */,
+				955F7D2428A79372009178E8 /* CW6.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		36AD1BFE2864AD8800A1140E /* cw5 */ = {
+		955F7D2628A79372009178E8 /* CW6 */ = {
 			isa = PBXGroup;
 			children = (
-				9586D01428A83D59008EFAF8 /* Info.plist */,
-				36AD1BFF2864AD8800A1140E /* cw5App.swift */,
-				36AD1C012864AD8800A1140E /* ContentView.swift */,
-				36AD1C032864AD8A00A1140E /* Assets.xcassets */,
-				36AD1C052864AD8A00A1140E /* Preview Content */,
+				955F7D2728A79372009178E8 /* CW6App.swift */,
+				955F7D2928A79372009178E8 /* ContentView.swift */,
+				955F7D2B28A79373009178E8 /* Assets.xcassets */,
+				955F7D2D28A79373009178E8 /* Preview Content */,
 			);
-			path = cw5;
+			path = CW6;
 			sourceTree = "<group>";
 		};
-		36AD1C052864AD8A00A1140E /* Preview Content */ = {
+		955F7D2D28A79373009178E8 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				36AD1C062864AD8A00A1140E /* Preview Assets.xcassets */,
+				955F7D2E28A79373009178E8 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -72,39 +70,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		36AD1BFB2864AD8800A1140E /* cw5 */ = {
+		955F7D2328A79372009178E8 /* CW6 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 36AD1C0A2864AD8A00A1140E /* Build configuration list for PBXNativeTarget "cw5" */;
+			buildConfigurationList = 955F7D3228A79373009178E8 /* Build configuration list for PBXNativeTarget "CW6" */;
 			buildPhases = (
-				36AD1BF82864AD8800A1140E /* Sources */,
-				36AD1BF92864AD8800A1140E /* Frameworks */,
-				36AD1BFA2864AD8800A1140E /* Resources */,
+				955F7D2028A79372009178E8 /* Sources */,
+				955F7D2128A79372009178E8 /* Frameworks */,
+				955F7D2228A79372009178E8 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = cw5;
-			productName = cw5;
-			productReference = 36AD1BFC2864AD8800A1140E /* cw5.app */;
+			name = CW6;
+			productName = CW6;
+			productReference = 955F7D2428A79372009178E8 /* CW6.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		36AD1BF42864AD8800A1140E /* Project object */ = {
+		955F7D1C28A79372009178E8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1340;
 				LastUpgradeCheck = 1340;
 				TargetAttributes = {
-					36AD1BFB2864AD8800A1140E = {
+					955F7D2328A79372009178E8 = {
 						CreatedOnToolsVersion = 13.4.1;
 					};
 				};
 			};
-			buildConfigurationList = 36AD1BF72864AD8800A1140E /* Build configuration list for PBXProject "cw5" */;
+			buildConfigurationList = 955F7D1F28A79372009178E8 /* Build configuration list for PBXProject "CW6" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,42 +110,42 @@
 				en,
 				Base,
 			);
-			mainGroup = 36AD1BF32864AD8800A1140E;
-			productRefGroup = 36AD1BFD2864AD8800A1140E /* Products */;
+			mainGroup = 955F7D1B28A79372009178E8;
+			productRefGroup = 955F7D2528A79372009178E8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				36AD1BFB2864AD8800A1140E /* cw5 */,
+				955F7D2328A79372009178E8 /* CW6 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		36AD1BFA2864AD8800A1140E /* Resources */ = {
+		955F7D2228A79372009178E8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				36AD1C072864AD8A00A1140E /* Preview Assets.xcassets in Resources */,
-				36AD1C042864AD8A00A1140E /* Assets.xcassets in Resources */,
+				955F7D2F28A79373009178E8 /* Preview Assets.xcassets in Resources */,
+				955F7D2C28A79373009178E8 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		36AD1BF82864AD8800A1140E /* Sources */ = {
+		955F7D2028A79372009178E8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				36AD1C022864AD8800A1140E /* ContentView.swift in Sources */,
-				36AD1C002864AD8800A1140E /* cw5App.swift in Sources */,
+				955F7D2A28A79372009178E8 /* ContentView.swift in Sources */,
+				955F7D2828A79372009178E8 /* CW6App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		36AD1C082864AD8A00A1140E /* Debug */ = {
+		955F7D3028A79373009178E8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -207,7 +205,7 @@
 			};
 			name = Debug;
 		};
-		36AD1C092864AD8A00A1140E /* Release */ = {
+		955F7D3128A79373009178E8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -261,17 +259,16 @@
 			};
 			name = Release;
 		};
-		36AD1C0B2864AD8A00A1140E /* Debug */ = {
+		955F7D3328A79373009178E8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"cw5/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"CW6/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = cw5/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -282,7 +279,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = UniCode.cw5;
+				PRODUCT_BUNDLE_IDENTIFIER = com.DhuhaEbrahim.CW6;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -290,17 +287,16 @@
 			};
 			name = Debug;
 		};
-		36AD1C0C2864AD8A00A1140E /* Release */ = {
+		955F7D3428A79373009178E8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"cw5/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"CW6/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = cw5/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -311,7 +307,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = UniCode.cw5;
+				PRODUCT_BUNDLE_IDENTIFIER = com.DhuhaEbrahim.CW6;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -322,25 +318,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		36AD1BF72864AD8800A1140E /* Build configuration list for PBXProject "cw5" */ = {
+		955F7D1F28A79372009178E8 /* Build configuration list for PBXProject "CW6" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				36AD1C082864AD8A00A1140E /* Debug */,
-				36AD1C092864AD8A00A1140E /* Release */,
+				955F7D3028A79373009178E8 /* Debug */,
+				955F7D3128A79373009178E8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		36AD1C0A2864AD8A00A1140E /* Build configuration list for PBXNativeTarget "cw5" */ = {
+		955F7D3228A79373009178E8 /* Build configuration list for PBXNativeTarget "CW6" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				36AD1C0B2864AD8A00A1140E /* Debug */,
-				36AD1C0C2864AD8A00A1140E /* Release */,
+				955F7D3328A79373009178E8 /* Debug */,
+				955F7D3428A79373009178E8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 36AD1BF42864AD8800A1140E /* Project object */;
+	rootObject = 955F7D1C28A79372009178E8 /* Project object */;
 }
